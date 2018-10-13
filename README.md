@@ -1,10 +1,10 @@
-<pre>
+<pre><code>
     ____    _           _  __  _   _   
    |  _ \  (_)  _ __   | |/ / (_) | |_ 
    | |_) | | | | '_ \  | ' /  | | | __|
    |  __/  | | | | | | | . \  | | | |_ 
    |_|     |_| |_| |_| |_|\_\ |_|  \__|
-</pre>
+</pre></code>
 PinKit is a super lightweight wrapper around vanilla auto layout for iOS that makes laying out constraints just like doing any other normal math.  If you aren't a fan of overriding operators or learning new ones, then this isn't for you, but if you want to be able to write:
 
 <pre><code>
